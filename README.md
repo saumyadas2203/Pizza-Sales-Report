@@ -13,16 +13,6 @@ Welcome to the **Pizza Sales Report** project, where we leverage SQL for data an
 
 - **Top-Selling Pizzas**: Discover the top-selling pizzas based on revenue, quantity, and total orders. Use this information to optimize your menu and increase profits.
 
-## Getting Started
-
-1. **Data Analysis with SQL**:
-   - The initial data analysis was conducted using SQL. The SQL scripts and queries used for data extraction, transformation, and loading can be found in the <a href="pizza_sales_analysis.sql">sql_sales_analysis.sql</a> of this repository.
-
-2. **Creating Dashboards with Power BI**:
-   - The Power BI project file <a href="pizza_sales_report.pbix">pizza_sales_report.pbix</a> contains the interactive dashboards. You can open and customize it with Power BI Desktop.
-
-3. **Access the Dashboard**:
-   - Open the `pizza_sales_report.pbix` file with Power BI Desktop to explore the interactive dashboards.
 
 ## Data Analysis with SQL
 
